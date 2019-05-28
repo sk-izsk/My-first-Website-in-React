@@ -7,6 +7,7 @@ import Coding from "./Component/Coding.jsx";
 import Ethical from "./Component/Ethical.jsx";
 import Education from "./Component/Education.jsx";
 import ContactMe from "./Component/ContactMe.jsx";
+import Footer from "./Component/Footer.jsx";
 
 export default class App extends Component {
   render() {
@@ -19,6 +20,7 @@ export default class App extends Component {
         <Ethical />
         <Education />
         <ContactMe />
+        <Footer />
       </div>
     );
   }
