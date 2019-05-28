@@ -18,7 +18,7 @@ export default class AboutMe extends Component {
                 <i class="fas fa-camera icon icon-small" /> &nbsp; Photography
               </h3>
               <h4>
-                <u>Images are memory , so make it memorable</u>
+                <u>Images are memory, so make it memorable</u>
               </h4>
               <p>
                 Photography is one thing that I love to do most. Does not matter
